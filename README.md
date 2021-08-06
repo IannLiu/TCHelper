@@ -10,7 +10,6 @@ Features: Calculating the thermodynamic properties of each internal rotation.
 
 Program name: TORSION
 Features: Calculating the thermodynamic properties with and without some torsion modes.
-# Thanks to http://sobereva.com/soft/shermo/
-
+Thanks to http://sobereva.com/soft/shermo/
 
 
