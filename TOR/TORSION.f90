@@ -34,8 +34,8 @@ logical :: alive
 
 
 write(*,*) "TORSION: A utility to calculate thermodynamic properties:"
-write(*,*) "1.Thermaldynamic properties with all of the motion modes"
-write(*,*) "2.Thermaldynamic properties without internal torsion"
+write(*,*) "1.Thermodynamic properties with all of the motion modes"
+write(*,*) "2.Thermodynamic properties without internal torsion"
 write(*,*) "Programmed by LiuYan(IanPioneee@163.com)"
 write(*,*) "First release: 2020-Feb-26  Last update: 2020-May-19"
 write(*,*)
