@@ -22,7 +22,7 @@ write(*,*)"Program name: TORTHMAL"
 write(*,*)"Programmed by YanLiu (IanPioneee@163.com)"
 write(*,*) "Release date: 2020-March-18"
 write(*,*)"Function: Input a formated file inclouding torsion information,"
-write(*,*)"and calculate the thermal properties of each internal rotation"
+write(*,*)"and calculate the thermo properties of each internal rotation"
 write(*,*)
 
 supouter: do while (.true.)
