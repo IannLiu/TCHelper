@@ -1,0 +1,3 @@
+#Required Fortran compiler. For example, Microsoft Visual Studio
+
+Additional Dependencies: mkl_lapack95.lib
