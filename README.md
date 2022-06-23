@@ -1,18 +1,21 @@
 # TCHelper
+
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+
 TCHelper is to provide some useful tools to calculate thermodynamic properties of gas-phase molecules. 
 
 For the latest updata, there are two tools named TORSION and TORTHERM. Both of them are written in the Fortarn language.
 
-For molecules containing internal rotations, the treatment of internal rotations using the harmonic oscillator approximation is known to be inappropriate except for internal rotations with high energy barriers. One of the most successful methods for treating internal rotation is the 1-D hindered rotor (1-DHR) model. 
+# Content
+* Program name: TORTHMO
 
-Program name: TORTHMO
+  Features: Calculating the thermodynamic properties of each internal rotation of molecules.
 
-Features: Calculating the thermodynamic properties of each internal rotation of molecules.
+* Program name: TORSION
 
-Program name: TORSION
+  Features: Calculating the thermodynamic properties with and without some torsion modes of molecules.
 
-Features: Calculating the thermodynamic properties with and without some torsion modes of molecules.
-
-Thanks to http://sobereva.com/soft/shermo/
+Some of these codes from  [Shermo](http://sobereva.com/soft/shermo/)
 
 
